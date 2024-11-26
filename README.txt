@@ -1,4 +1,4 @@
-link to dataset - https://www.kaggle.com/competitions/m5-forecasting-accuracy/data 
+
 
 Procedure to run Lightgbm Code
 1. to generate mini dataset (if it is already not there)
