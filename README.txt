@@ -11,3 +11,5 @@ Procedure to run Lightgbm model
 2. run lightgbm_2_year.py
 3. it will ask to generate the ne w model and dataset if it is already not present in the working folder. press 'y' to proceed
 4. after succesful completion it will generate two plots for prediction as well display the prediction for next 28 days on terminal for selected item. 
+
+For all the others, just run the notebbok.
